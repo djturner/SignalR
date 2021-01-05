@@ -2,7 +2,6 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using SignalR.Client;
-using System.IO;
 
 namespace Client
 {
